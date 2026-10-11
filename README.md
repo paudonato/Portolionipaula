@@ -17,7 +17,7 @@ Then visit `http://localhost:8000`. No build step or deployment is required.
 - `index.html` — portfolio sections, contact details, and Instagram Reel links
 - `styles.css` — responsive layout, colors, and thumbnail styling
 - `script.js` — mobile navigation toggle and keyboard behavior
-- `assets/paula-portrait.jpg` — homepage portrait
-- `assets/skincare.png`, `assets/desk-setup.png`, `assets/unboxing.png` — portfolio photos
+- `assets/paula-portrait.jpg`
+- `assets/skincare.png`, `assets/desk-setup.png`, `assets/unboxing.png` 
 
 Starting rate: ₱800 per video, negotiable. Custom packages and selected x-deals are available.
